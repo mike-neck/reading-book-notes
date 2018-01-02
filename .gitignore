@@ -3,3 +3,4 @@
 *.jar
 !wrapper/gaiden-wrapper.jar
 build/
+.idea/
